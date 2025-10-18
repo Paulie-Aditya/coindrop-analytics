@@ -13,9 +13,9 @@ DB_NAME = os.getenv("DB_NAME", "coindrop")
 
 # Scaling factors (rough relative USD value)
 TOKEN_SCALING = {
-    "BNB": 580,    # Example USD value
-    "ETH": 2500,
-    "MATIC": 0.24,
+    "BNB": 1090.60,    # Example USD value
+    "ETH": 3873.68,
+    "MATIC": 0.18,
     "USDT": 1
 }
 
